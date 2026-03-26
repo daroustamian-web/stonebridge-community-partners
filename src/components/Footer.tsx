@@ -13,7 +13,7 @@ const Footer = () => {
           <div>
             <Link to="/" className="flex items-center gap-2 mb-4">
               <img src="/images/logo.png" alt="StoneBridge Community Partners" className="h-10 w-auto" />
-              <span className="font-heading text-base font-bold leading-tight">QUEEN<br/>HOME CARE</span>
+              <span className="font-heading text-xs font-bold leading-tight">STONEBRIDGE<br/>COMMUNITY PARTNERS</span>
             </Link>
             <p className="text-sm opacity-70 leading-relaxed mb-5">
               Providing reliable care for your peace of mind in Charlotte, NC - Charlotte and surrounding communities and surrounding areas. Bringing compassionate caregivers to your doorstep with dignity, respect, and genuine human connection.

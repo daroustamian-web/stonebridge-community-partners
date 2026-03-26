@@ -23,7 +23,7 @@ const Navbar = () => {
         <Link to="/" className="flex items-center gap-2">
           <img src="/images/logo.png" alt="StoneBridge Community Partners" className="h-12 w-auto" />
           <div className="hidden sm:block">
-            <span className="font-heading text-lg font-bold text-foreground leading-tight block">QUEEN<br/>HOME CARE</span>
+            <span className="font-heading text-sm font-bold text-foreground leading-tight block">STONEBRIDGE<br/>COMMUNITY PARTNERS</span>
           </div>
         </Link>
 
