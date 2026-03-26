@@ -57,7 +57,7 @@ const HeroSection = () => {
                 <span className="bg-background/20 backdrop-blur px-3 py-1 rounded-full text-primary-foreground">PERSONAL CARE</span>
                 <span className="bg-background/20 backdrop-blur px-3 py-1 rounded-full text-primary-foreground">HOME CARE</span>
               </div>
-              <div className="absolute bottom-4 right-4 text-xs text-primary-foreground opacity-70">YORK, NC</div>
+              <div className="absolute bottom-4 right-4 text-xs text-primary-foreground opacity-70">CHARLOTTE, NC</div>
 
               {/* Bottom card overlay */}
               <div className="absolute bottom-4 left-4 flex items-end gap-3">
